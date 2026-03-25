@@ -1,0 +1,5 @@
+# https://foundinnorthtexas.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://foundinnorthtexas.com/sitemap.xml
