@@ -356,6 +356,16 @@ nav {
   text-align: center;
 }
 
+.categories a.cat-block {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.categories a.cat-block:hover {
+  background: var(--bg-warm);
+}
+
 .cat-block:last-child {
   border-right: none;
 }
