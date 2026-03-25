@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://foundinnorthtexas.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://foundinnorthtexas.com/blog/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/blog/mckinney-taco-trail.html</loc>
+  </url>
+
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/mckinney.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/frisco.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/denton.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/plano.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/allen.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/prosper.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/melissa.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/cities/celina.html</loc>
+  </url>
+
+  <url>
+    <loc>https://foundinnorthtexas.com/best-of/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/best-of/best-restaurants-mckinney.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/best-of/best-coffee-shops-north-texas.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/best-of/best-bbq-north-texas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://foundinnorthtexas.com/neighborhoods/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/neighborhoods/living-in-melissa-tx.html</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/neighborhoods/living-in-celina-tx.html</loc>
+  </url>
+
+  <!-- Existing directory-based city routes -->
+  <url>
+    <loc>https://foundinnorthtexas.com/mckinney/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/frisco/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/denton/</loc>
+  </url>
+  <url>
+    <loc>https://foundinnorthtexas.com/plano/</loc>
+  </url>
+</urlset>
